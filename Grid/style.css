@@ -1,0 +1,11 @@
+input[type=text]{
+	width: 100px;
+}
+
+.col{
+	border: 1px solid black;
+}
+
+#main{
+	margin-top: 10px;
+}

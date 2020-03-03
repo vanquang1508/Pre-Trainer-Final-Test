@@ -1,0 +1,21 @@
+.body{
+	margin: auto;
+	width: 100px;
+	height: 100px;
+}
+
+.col{
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 1px solid black;
+	text-align: center;
+	line-height: 30px;
+}
+.win{
+	background: red;
+}
+
+button{
+	margin-top: 5px;
+}
